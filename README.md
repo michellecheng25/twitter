@@ -25,6 +25,9 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+# Twitter - Part 1
+
+
 **Twitter** is a basic twitter app to read your tweets.
 
 Time spent: **4** hours spent in total
